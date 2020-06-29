@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Profile</title>
+    </head>
+    <body>
+        <h2>{{ .First}}</h2>
+        <h1>{{ .Last}}</h1>
+        <hr>
+        {{ range .FavNums }}
+        {{ . }},&nbsp;
+        {{ end }}
+    </body>
+</html>
