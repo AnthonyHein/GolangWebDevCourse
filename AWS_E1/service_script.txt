@@ -1,0 +1,11 @@
+[Unit]
+Description=Go Server
+
+[Service]
+ExecStart=~/data/AWS_E1
+User=root
+Group=root
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
