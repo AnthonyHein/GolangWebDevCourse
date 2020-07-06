@@ -1,0 +1,20 @@
+[
+    {
+        "id" : "5f0396ccd1c0f748e8280621",
+        "name" : "Anthony",
+        "gender" : "Male",
+        "age" : 20
+    },
+    {
+        "id" : "5f0396ccd1c0f748e8280622",
+        "name" : "Michael",
+        "gender" : "Male",
+        "age" : 17
+    },
+    {
+        "id" : "5f0396ccd1c0f748e8280623",
+        "name" : "Briana",
+        "gender" : "Female",
+        "age" : 19
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "_\u0003\ufffd\ufffd\ufffd\ufffd\ufffdH\ufffd(\u0006!":
+    {
+        "id":"5f0396ccd1c0f748e8280621",
+        "name":"Anthony",
+        "gender":"Male",
+        "age":20
+    },
+    "_\u0003\ufffd\ufffd\ufffd\ufffd\ufffdH\ufffd(\u0006\"":
+    {
+        "id":"5f0396ccd1c0f748e8280622",
+        "name":"Michael",
+        "gender":"Male",
+        "age":17
+    },
+    "_\u0003\ufffd\ufffd\ufffd\ufffd\ufffdMN\ufffd\u0000\ufffd":
+    {
+        "id":"5f03a1a1d1c0f74d4e9800f9",
+        "name":"Briana",
+        "gender":"Female",
+        "age":19
+    }
+}
